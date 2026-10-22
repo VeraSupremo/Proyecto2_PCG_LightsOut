@@ -85,3 +85,6 @@ Estas opciones controlan cómo buscan la solución los algoritmos. No cambian el
 | Se atasca en la misma solución | Aumentar Temperatura inicial, disminuir Factor de Enfriamiento |
 | Descarta muchos tableros | Aumentar Generaciones, aumentar Intentos por temperatura |
 | No quieres ver la animación | Disminuir Tiempo entre intentos |
+
+[Ver Proyecto en Itchio]([docs/instalacion.md](https://pinamc.itch.io/procedurallightsout20-moreproceduralthanever))
+

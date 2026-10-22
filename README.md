@@ -79,7 +79,7 @@ Estas opciones controlan cómo buscan la solución los algoritmos. No cambian el
 
 ## Regla rápida de ajuste
 
-| Si el problema es... | Ajusta... |
+| Si el problema es | Se recomienda ajustar |
 |---|---|
 | Tarda demasiado | Disminuir Generaciones, disminuir Intentos por temperatura, aumentar Factor de Enfriamiento |
 | Se atasca en la misma solución | Aumentar Temperatura inicial, disminuir Factor de Enfriamiento |
